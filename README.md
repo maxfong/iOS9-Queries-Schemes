@@ -25,3 +25,6 @@ App常用Schemes，同一款产品的scheme必须都添加，否则可能无法o
 
 #新浪微博
 	<string>sinaweibo</string>
+
+#Other
+欢迎补充
